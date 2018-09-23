@@ -1,0 +1,5 @@
+#ArrayList<E>类定义和ArrayList<Integer>类引用中的术语解释:
+1.整个ArrayList<E>称为泛型类型,E是类型变量
+2.ArrayList<Integer>参数化的类型,Integer参数化的类型
+
+#
