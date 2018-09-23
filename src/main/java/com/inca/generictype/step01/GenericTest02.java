@@ -31,6 +31,6 @@ public class GenericTest02 {
 
 //打印日志:
 //	[Bruce, a, 11, java.lang.Object@383534aa]
-//			Exception in thread "main" java.lang.ClassCastException: java.base/java.lang.String cannot be cast to java.base/java.lang.Integer
-//				at com.inca.generictype.step01.GenericTest01.main(GenericTest01.java:15)
+//	Exception in thread "main" java.lang.ClassCastException: java.base/java.lang.String cannot be cast to java.base/java.lang.Integer
+//		at com.inca.generictype.step01.GenericTest01.main(GenericTest01.java:15)
 	
